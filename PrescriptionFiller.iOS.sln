@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrescriptionFiller.iOS", "PrescriptionFiller.iOS.csproj", "{8D19E19D-B29A-4B1F-9D78-2D27EF713087}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D19E19D-B29A-4B1F-9D78-2D27EF713087}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{8D19E19D-B29A-4B1F-9D78-2D27EF713087}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{8D19E19D-B29A-4B1F-9D78-2D27EF713087}.Release|iPhone.ActiveCfg = Release|iPhone
+		{8D19E19D-B29A-4B1F-9D78-2D27EF713087}.Release|iPhone.Build.0 = Release|iPhone
+		{8D19E19D-B29A-4B1F-9D78-2D27EF713087}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{8D19E19D-B29A-4B1F-9D78-2D27EF713087}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{8D19E19D-B29A-4B1F-9D78-2D27EF713087}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{8D19E19D-B29A-4B1F-9D78-2D27EF713087}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
