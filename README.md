@@ -1,4 +1,4 @@
-# Medicle-app
+# Medicle app
 
 # Medical treatment and patient booking 
 
