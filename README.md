@@ -8,7 +8,7 @@ app start up and login trace.
 
 Apps.cs
 			MainPage = new RootPage ();
-----
+
 RootPage.cs
 		public RootPage ()
 		{
@@ -27,7 +27,7 @@ LoginPage.cs
 			this.BindingContext = new LoginViewModel(this.Navigation);
 			NavigationPage.SetHasNavigationBar(this, false);
 
-----
+
 LoginViewModel.cs
         public LoginViewModel( INavigation p_navigation )
         {
@@ -65,4 +65,4 @@ LoginViewModel.cs
 
             else
                 await MessagePopup.Show(this.navigation, MessagePopup.Type.Error, MessagePopup.Icon.User, "Sorry", "An unknown error has appeared");
-        }
+        };
